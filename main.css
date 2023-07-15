@@ -1,0 +1,19 @@
+h1{
+    align-items: center;
+    background-color: #cc8383;
+    padding:16px;
+    font-family:"Dancing Script",sans-serif;
+}
+h3{ 
+    padding: 16px;
+    background-color: #ebc4a9;
+    font-family:"Dancing Script",sans-serif;
+
+}
+p{background-color: #fff6ee;
+  font-family:  Arial, sans-serif;  
+}
+li{background-color:#fff6ee;
+    font-family:  Arial, sans-serif;  
+
+}
